@@ -1,4 +1,5 @@
 ***C Program To Find All Armstrong Number in A Given Range***
+***C Program To Check Whether a Number is an Armstrong Number***
 
 ***Author:- Ajinkya Patil***
 
