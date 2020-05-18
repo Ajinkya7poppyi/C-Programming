@@ -1,4 +1,4 @@
-// C Program To Check Whether a Number is an Armstrong Number
+// C program To Print Hello World Without Using Semicolon
 // Author:- Ajinkya Patil
 // Github:- https://github.com/Ajinkya7poppyi/
 
