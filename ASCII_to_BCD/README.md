@@ -22,14 +22,13 @@ KEY | ASCII | BINARY | BCD
 8	| 38 | 0011 1000 | 0000 1000
 9	| 39 | 0011 1001 | 0000 1001
 
-
-*BCD*
+**BCD**
 BCD is 4-bit binary representation of unsigned decimal number. There are two types in BCD.
 
-*Unpacked BCD*
+**Unpacked BCD**
 In Unpacked BCD, only one digit is represented in a single byte. Least significant 4-bits carry the weight-age of the decimal digit, while most significant once carry the non-relevant content.
 
-*Packed BCD*
+**Packed BCD**
 In Packed BCD, two decimal digits are stored into a single byte. So both Least Significant as well as Most significant 4-bits carry the weight-age of two decimals, respectively.
 
 KEY | ASCII | BINARY | BCD
