@@ -1,4 +1,4 @@
-// C Program to Check Whether a Number is Even or Odd
+// C Program to Check Whether a Number is Even or Odd (Modulus Operator)
 // Author:- Ajinkya Patil
 // Github:- https://github.com/Ajinkya7poppyi/
 
