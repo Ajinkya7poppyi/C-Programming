@@ -1,10 +1,10 @@
-#C Program to Check Whether a Number is Even or Odd
+# C Program to Check Whether a Number is Even or Odd
 
-###Author:- Ajinkya Patil
+### Author:- Ajinkya Patil
 
-###Github:- https://github.com/Ajinkya7poppyi
+### Github:- https://github.com/Ajinkya7poppyi
 
-** We have a problem to check whether a number is odd or even. Before going forward lets understand what is even and odd.**
+**We have a problem to check whether a number is odd or even. Before going forward lets understand what is even and odd.**
 
 **Even Number:**
 
